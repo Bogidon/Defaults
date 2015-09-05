@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Defaults-App/DefaultsApp.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Defaults-Demo/DefaultsDemo/DefaultsDemo.xcodeproj">
    </FileRef>
    <FileRef

@@ -4,3 +4,6 @@
 [submodule "Defaults-Demo"]
 	path = Defaults-Demo
 	url = git@github.com:Bogidon/Defaults-Demo.git
+[submodule "Defaults-App"]
+	path = Defaults-App
+	url = git@github.com:Bogidon/Defaults-App.git
