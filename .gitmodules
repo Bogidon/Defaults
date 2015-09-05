@@ -1,0 +1,6 @@
+[submodule "Defaults-SDK"]
+	path = Defaults-SDK
+	url = git@github.com:Bogidon/Defaults-SDK.git
+[submodule "Defaults-Demo"]
+	path = Defaults-Demo
+	url = git@github.com:Bogidon/Defaults-Demo.git
