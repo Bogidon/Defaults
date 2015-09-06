@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "97ADAE82DD2503D2EFD4A5C678563B40DAB76B16",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CD417D038DDE139EA72554A272ABC9CA1E931DBE" : 0,
+    "2D847409137C7CBF588F859BCA5951C4968D22AB" : 0,
+    "810244AA73A624D654A726434A830BEAED355888" : 0,
+    "97ADAE82DD2503D2EFD4A5C678563B40DAB76B16" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0ACEADEC-82BD-4AB0-8906-E6E73D9A1452",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CD417D038DDE139EA72554A272ABC9CA1E931DBE" : "Defaults\/Defaults-Demo",
+    "2D847409137C7CBF588F859BCA5951C4968D22AB" : "Defaults\/Defaults-App",
+    "810244AA73A624D654A726434A830BEAED355888" : "Defaults\/Defaults-SDK",
+    "97ADAE82DD2503D2EFD4A5C678563B40DAB76B16" : "Defaults"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Defaults",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Defaults.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Bogidon\/Defaults-App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2D847409137C7CBF588F859BCA5951C4968D22AB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Bogidon\/Defaults-SDK.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "810244AA73A624D654A726434A830BEAED355888"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Bogidon\/Defaults.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "97ADAE82DD2503D2EFD4A5C678563B40DAB76B16"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Bogidon\/Defaults-Demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CD417D038DDE139EA72554A272ABC9CA1E931DBE"
+    }
+  ]
+}
